@@ -1,5 +1,8 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>LoginScreanForm.ui.qml</file>
+        <file>LoginScrean.qml</file>
+        <file>RegistrationScreen.qml</file>
     </qresource>
 </RCC>
