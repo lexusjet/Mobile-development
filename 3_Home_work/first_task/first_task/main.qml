@@ -17,6 +17,8 @@ Window {
     color: "#F7F7F7"
 
 
+
+
     Rectangle{
         id: rectangle
         width: 300
@@ -34,27 +36,24 @@ Window {
                 PropertyChanges { target: passField; color: "red"}
             },
             State {
-                name: "sucsess"
-                changes: opacity
+                name: "sucsess"     
                 PropertyChanges { target: nameField; opacity: 0}
                 PropertyChanges{ target: passField; opacity: 0}
                 PropertyChanges{ target: bot; opacity: 0}
-                PropertyChanges{ target: nameLabel; opacity: 0}
-                PropertyChanges{ target: passLabel; opacity: 0}
-                PropertyChanges{ target: supbut; opacity: 10}
-                PropertyChanges{target: supbut; visible: true}
-
-
+                PropertyChanges{ target: rectangle; opacity: 0}
                 },
-            State {
+            State{
                 name: "search"
-                PropertyChanges {target: indicator; running: true}
-
+                PropertyChanges{target: rectangle; opacity: 0}
+                PropertyChanges{target: indicator1; running: true}
             },
-            State {
-                name: "searchFinished"
-                PropertyChanges { target: object }
+            State{
+                name: "searchSucsess"
+                PropertyChanges{target: rectangle; opacity: 0}
+                PropertyChanges{target: searchend; opacity: 100}
+                PropertyChanges{target: searchend; visible: true}
             }
+
         ]
         transitions:[
             Transition {
@@ -68,16 +67,19 @@ Window {
             Transition {
                 to: "sucsess"
                 SequentialAnimation{
-                    PropertyAnimation { target: rectangle; property: "opacity"; to: 0; duration: 600 }
-                    PropertyAnimation { target: rectangle; property: "opacity"; to: 1000; duration: 600}
+                    PropertyAnimation { target: rectangle; property: "opacity"; to: 0; duration: 600;  alwaysRunToEnd:  true}
                 }
             },
-            Transition {
+            Transition{
                 from: "sucsess"
                 to: "search"
-                PropertyAnimation{target: rectangle; property: "color"; to: "red"; duration: 100}
+                PropertyAnimation{ target: indicator1; property: "running"; duration: 600}
+            },
+            Transition{
+                from: "search"
+                to: "searchSucsess"
+                PropertyAnimation{target: searchend; property: "opacity"; duration: 6000; alwaysRunToEnd: true}
             }
-
         ]
 
         ColumnLayout{
@@ -121,37 +123,44 @@ Window {
                 Layout.preferredHeight: 40
                 Layout.alignment: Qt.AlignCenter
                 background: Rectangle{radius: 6; color: "#d9dddb"}
+                Timer{
+                    id: time; interval: 5000; running: false
+                    onTriggered: rectangle.state = "searchSucsess"
+                }
                 onClicked: {
                     if(nameField.text == "Name" && passField.text == "pass"){
                         rectangle.state = (nameField.state == "sucsess")? "": "sucsess"
-                        console.log(nameField.state.toString())
-                    }else{
+                        rectangle.state = "search"
+                        time.start()
+
+                    }
+                    else{
                         rectangle.state = (nameField.state == "inocrect")? "": "inocrect"
                         console.log(nameField.state.toString())
                     }
-
                 }
             }
         }
-        BusyIndicator{ id: indicator; anchors.centerIn: parent; running: false }
-        Button{
-            id: supbut
-            width: 290
-            height: 45
+
+
+    }
+    BusyIndicator{ id: indicator1; anchors.centerIn: parent; running: false; }
+    Rectangle{
+        id: searchend
+        width: 300
+        height: 180
+        border.width: 1
+        border.color: "#00FF7F"
+        anchors.centerIn: parent
+        visible: false
+        opacity: 0
+        radius: 6
+        color: "#FFFFFF"
+        Text {
+            id: namea
             anchors.centerIn: parent
-            text: "Start serch"
-            opacity: 0
-            visible: false
-            font.bold: true
-            font.pixelSize: 14
-            background: Rectangle{radius: 6; color: "#F7F7F7"}
-            Timer {id:timer; interval: 5000; running: false;
-                onTriggered: rectangle.state = "sucsess"
-            }
-            onClicked: {
-                rectangle.state = "search"
-                timer.start()
-            }
+            text: qsTr("Sucsess")
         }
     }
 }
+
