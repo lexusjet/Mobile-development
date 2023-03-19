@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>log_is_screan.qml</file>
+        <file>title_page.qml</file>
+        <file>second_page.qml</file>
+    </qresource>
+</RCC>
