@@ -1,0 +1,584 @@
+Thu Mar 30 14:59:30 2023 - SBomber::SBomber was invoked
+Thu Mar 30 14:59:30 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::DrawFrame was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::MoveObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::CheckObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::TimeFinish deltaTime = 94
+Thu Mar 30 14:59:31 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::DrawFrame was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::MoveObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::CheckObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::TimeFinish deltaTime = 93
+Thu Mar 30 14:59:31 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::DrawFrame was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::MoveObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::CheckObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:31 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::DrawFrame was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::MoveObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::CheckObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::TimeFinish deltaTime = 78
+Thu Mar 30 14:59:31 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::DrawFrame was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::MoveObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::CheckObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::TimeFinish deltaTime = 78
+Thu Mar 30 14:59:31 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::DrawFrame was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::MoveObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::CheckObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::TimeFinish deltaTime = 78
+Thu Mar 30 14:59:31 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::DrawFrame was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::MoveObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::CheckObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:31 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::DrawFrame was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::MoveObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::CheckObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:31 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::DrawFrame was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::MoveObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::CheckObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::TimeFinish deltaTime = 78
+Thu Mar 30 14:59:31 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::DrawFrame was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::MoveObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::CheckObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:31 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::DrawFrame was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::MoveObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::CheckObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::TimeFinish deltaTime = 78
+Thu Mar 30 14:59:31 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::DrawFrame was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::MoveObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::CheckObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:31 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::DrawFrame was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::MoveObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::CheckObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:31 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::DrawFrame was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::MoveObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::CheckObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:31 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::DrawFrame was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::MoveObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::CheckObjects was invoked
+Thu Mar 30 14:59:31 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:31 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:32 2023 - SBomber::DrawFrame was invoked
+Thu Mar 30 14:59:32 2023 - SBomber::MoveObjects was invoked
+Thu Mar 30 14:59:32 2023 - SBomber::CheckObjects was invoked
+Thu Mar 30 14:59:32 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:32 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:32 2023 - SBomber::ProcessKBHit was invoked. key = 27
+Thu Mar 30 14:59:32 2023 - SBomber::DrawFrame was invoked
+Thu Mar 30 14:59:32 2023 - SBomber::MoveObjects was invoked
+Thu Mar 30 14:59:32 2023 - SBomber::CheckObjects was invoked
+Thu Mar 30 14:59:32 2023 - SBomber::TimeFinish deltaTime = 79
+Thu Mar 30 14:59:32 2023 - SBomber::AnimateScrolling was invoked
+Thu Mar 30 14:59:32 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:32 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:32 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:32 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:32 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:32 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:32 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:32 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:32 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:32 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:32 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:32 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:32 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:32 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:32 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:32 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:32 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:32 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:32 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:32 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:32 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:32 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:32 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:32 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:32 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:32 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:32 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:32 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:32 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:32 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:32 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:33 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:33 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:33 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:33 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:33 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:33 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:33 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:33 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:33 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:33 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:33 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:33 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:33 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:33 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:33 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:33 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:33 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:33 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:33 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:33 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:33 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:33 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:33 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:33 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:33 2023 - SBomber::TimeFinish deltaTime = 94
+Thu Mar 30 14:59:33 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:33 2023 - SBomber::TimeFinish deltaTime = 46
+Thu Mar 30 14:59:33 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:33 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:33 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:33 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:33 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:33 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:33 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:34 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:34 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:34 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:34 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:34 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:34 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:34 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:34 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:34 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:34 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:34 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:34 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:34 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:34 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:34 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:34 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:34 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:34 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:34 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:34 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:34 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:34 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:34 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:34 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:34 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:34 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:34 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:34 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:34 2023 - SBomber::TimeFinish deltaTime = 46
+Thu Mar 30 14:59:34 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:34 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:34 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:34 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:34 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:34 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:34 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:35 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:35 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:35 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:35 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:35 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:35 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:35 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:35 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:35 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:35 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:35 2023 - SBomber::TimeFinish deltaTime = 46
+Thu Mar 30 14:59:35 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:35 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:35 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:35 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:35 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:35 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:35 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:35 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:35 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:35 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:35 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:35 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:35 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:35 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:35 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:35 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:35 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:35 2023 - SBomber::TimeFinish deltaTime = 46
+Thu Mar 30 14:59:35 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:35 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:35 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:35 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:35 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:35 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:35 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:36 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:36 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:36 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:36 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:36 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:36 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:36 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:36 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:36 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:36 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:36 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:36 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:36 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:36 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:36 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:36 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:36 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:36 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:36 2023 - SBomber::TimeFinish deltaTime = 78
+Thu Mar 30 14:59:36 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:36 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:36 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:36 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:36 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:36 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:36 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:36 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:36 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:36 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:36 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:36 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:36 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:36 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:36 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:37 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:37 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:37 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:37 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:37 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:37 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:37 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:37 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:37 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:37 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:37 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:37 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:37 2023 - SBomber::TimeFinish deltaTime = 78
+Thu Mar 30 14:59:37 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:37 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:37 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:37 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:37 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:37 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:37 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:37 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:37 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:37 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:37 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:37 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:37 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:37 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:37 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:37 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:37 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:37 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:37 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:37 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:37 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:37 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:37 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:38 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:38 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:38 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:38 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:38 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:38 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:38 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:38 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:38 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:38 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:38 2023 - SBomber::TimeFinish deltaTime = 46
+Thu Mar 30 14:59:38 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:38 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:38 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:38 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:38 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:38 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:38 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:38 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:38 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:38 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:38 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:38 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:38 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:38 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:38 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:38 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:38 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:38 2023 - SBomber::TimeFinish deltaTime = 46
+Thu Mar 30 14:59:38 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:38 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:38 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:38 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:38 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:38 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:38 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:39 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:39 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:39 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:39 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:39 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:39 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:39 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:39 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:39 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:39 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:39 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:39 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:39 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:39 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:39 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:39 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:39 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:39 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:39 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:39 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:39 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:39 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:39 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:39 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:39 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:39 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:39 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:39 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:39 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:39 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:39 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:39 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:39 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:39 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:40 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:40 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:40 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:40 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:40 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:40 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:40 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:40 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:40 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:40 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:40 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:40 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:40 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:40 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:40 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:40 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:40 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:40 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:40 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:40 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:40 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:40 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:40 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:40 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:40 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:40 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:40 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:40 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:40 2023 - SBomber::TimeFinish deltaTime = 46
+Thu Mar 30 14:59:40 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:40 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:40 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:40 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:40 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:40 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:40 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:41 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:41 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:41 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:41 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:41 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:41 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:41 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:41 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:41 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:41 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:41 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:41 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:41 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:41 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:41 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:41 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:41 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:41 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:41 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:41 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:41 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:41 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:41 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:41 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:41 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:41 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:41 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:41 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:41 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:41 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:41 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:41 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:41 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:41 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:42 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:42 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:42 2023 - SBomber::TimeFinish deltaTime = 46
+Thu Mar 30 14:59:42 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:42 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:42 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:42 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:42 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:42 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:42 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:42 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:42 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:42 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:42 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:42 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:42 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:42 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:42 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:42 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:42 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:42 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:42 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:42 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:42 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:42 2023 - SBomber::TimeFinish deltaTime = 46
+Thu Mar 30 14:59:42 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:42 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:42 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:42 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:42 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:42 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:42 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:42 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:42 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:42 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:42 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:43 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:43 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:43 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:43 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:43 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:43 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:43 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:43 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:43 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:43 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:43 2023 - SBomber::TimeFinish deltaTime = 46
+Thu Mar 30 14:59:43 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:43 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:43 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:43 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:43 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:43 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:43 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:43 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:43 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:43 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:43 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:43 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:43 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:43 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:43 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:43 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:43 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:43 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:43 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:43 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:43 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:43 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:43 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:43 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:43 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:44 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:44 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:44 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:44 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:44 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:44 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:44 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:44 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:44 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:44 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:44 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:44 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:44 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:44 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:44 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:44 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:44 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:44 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:44 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:44 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:44 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:44 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:44 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:44 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:44 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:44 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:44 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:44 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:44 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:44 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:44 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:44 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:44 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:44 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:45 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:45 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:45 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:45 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:45 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:45 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:45 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:45 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:45 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:45 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:45 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:45 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:45 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:45 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:45 2023 - SBomber::TimeFinish deltaTime = 46
+Thu Mar 30 14:59:45 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:45 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:45 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:45 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:45 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:45 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:45 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:45 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:45 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:45 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:45 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:45 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:45 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:45 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:45 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:45 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:45 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:45 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:45 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:45 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:45 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:46 2023 - SBomber::TimeFinish deltaTime = 62
+Thu Mar 30 14:59:46 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:46 2023 - SBomber::TimeFinish deltaTime = 47
+Thu Mar 30 14:59:46 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:46 2023 - SBomber::TimeFinish deltaTime = 63
+Thu Mar 30 14:59:46 2023 - SBomber::TimeStart was invoked
+Thu Mar 30 14:59:46 2023 - SBomber::TimeFinish deltaTime = 62
